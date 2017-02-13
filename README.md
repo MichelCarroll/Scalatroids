@@ -8,7 +8,7 @@ You can look at the demo here: [https://michelcarroll.github.io/scalatroids/demo
 
 # Setup
 
-To run, execute: 
-- `sbt ~fastOptJS`
+To run locally: 
+- Execute `sbt ~fastOptJS`
 - View `src/main/resources/index-dev.html` in a browser
 - Enjoy!
